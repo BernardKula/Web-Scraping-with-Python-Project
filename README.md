@@ -16,5 +16,4 @@ You will be required to scrape for data from the following three technology webp
 ● PigiaMe: https://www.pigiame.co.ke/it-software-jobs<br />
 ● MyJobMag: https://www.myjobmag.co.ke/jobs-by-field/information-technology<br />
 ● KenyaJob:
-https://www.kenyajob.com/job-vacancies-search-kenya?f%5B0%5D=im_field_offr
-e_secteur%3A133<br />
+https://www.kenyajob.com/job-vacancies-search-kenya?f%5B0%5D=im_field_offre_secteur%3A133<br />
